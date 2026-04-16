@@ -95,3 +95,5 @@ Beginner HTML, CSS & JavaScript Project
 ## 📜 License
 
 This project is free to use for educational purposes.
+
+![Website Preview](output.png)
