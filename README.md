@@ -96,4 +96,17 @@ Beginner HTML, CSS & JavaScript Project
 
 This project is free to use for educational purposes.
 
-![Website Preview](output.png)
+---
+
+## Output 1
+
+<img width="1908" height="913" alt="Screenshot 2026-04-16 154537" src="https://github.com/user-attachments/assets/c5120a56-df20-4f0e-828b-d98f8f2ccd0b" />
+
+---
+
+## Output 2
+
+<img width="1910" height="913" alt="Screenshot 2026-04-16 154618" src="https://github.com/user-attachments/assets/9cd6ec3d-3db0-4703-9b10-1f97a3fb9d7d" />
+
+
+
